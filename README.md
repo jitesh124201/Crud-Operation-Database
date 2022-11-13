@@ -6,9 +6,9 @@
     Skill Demonstrated is
     
     1. Java
-    2. Mysql
+    2. MySql
     3. Spring-Boot
-    4. thymeleaf
+    4. Thymeleaf
     
     Feature Supported
     
