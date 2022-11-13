@@ -2,7 +2,6 @@
     
     Documentation Here 
     [click here](https://documenter.getpostman.com/view/19074820/2s8YeuLWGZ)
-    (https://documenter.getpostman.com/view/20464790/Uyr7JK3J)
     
     Skill Demonstrated is
     
