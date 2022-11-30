@@ -2,14 +2,14 @@
     
     Documentation Here (https://documenter.getpostman.com/view/19074820/2s8YeuLWGZ)
     
-    Skill Demonstrated is
+    Skill demonstrated
     
     1. Java
     2. MySql
     3. Spring-Boot
     4. MVC Framework
     
-    Feature Supported
+    Feature supported
     
     1. Get All Employee
     2. Create Employee
