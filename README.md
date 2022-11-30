@@ -1,6 +1,6 @@
-    This is an Employee CRUD Operation build in Spring-Boot and Thymeleaf
+    This is an Employee CRUD Operation build in Spring-Boot
     
-    Documentation Here (https://documenter.getpostman.com/view/19074820/2s8YeuLWGZ)
+    Documentation here (https://documenter.getpostman.com/view/19074820/2s8YeuLWGZ)
     
     Skill demonstrated
     
