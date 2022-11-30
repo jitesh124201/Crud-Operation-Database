@@ -8,7 +8,6 @@
     2. MySql
     3. Spring-Boot
     4. MVC Framework
-    5. 
     
     Feature Supported
     
